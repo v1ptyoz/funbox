@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "ingredient": "фуа-гра",
+    "description": "Печень утки разварная с артишоками.",
+    "pieces": 10,
+    "presents": 1,
+    "weight": 0.5,
+    "inStock":  true
+  },
+  {
+    "id": 2,
+    "ingredient": "рыбой",
+    "description": "Головы щучьи с чесноком да свежайшая сёмгушка.",
+    "pieces": 40,
+    "presents": 2,
+    "weight": 2,
+    "inStock":  true
+  },
+  {
+    "id": 3,
+    "ingredient": "курой",
+    "description": "Филе из цыплят с трюфелями в бульоне.",
+    "pieces": 100,
+    "presents": 5,
+    "weight": 5,
+    "inStock":  false
+  }
+]
